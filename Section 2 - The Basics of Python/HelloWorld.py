@@ -217,3 +217,4 @@ print("Pi is approximately {0:12.50}".format(22 / 7))
 # Automatically place the index values when blank 1, 2, 3
 for i in range(1, 12):
     print("No. {} squared is {} and cubed is {:4}".format(i, i ** 2, i ** 3))
+
