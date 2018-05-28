@@ -1,0 +1,1 @@
+Install Python -> Install an IDE (Recommend Pycharm) -> Configure Python into IDE (setting then SDK)
